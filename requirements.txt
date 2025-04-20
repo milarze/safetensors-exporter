@@ -1,0 +1,9 @@
+torch
+safetensors
+transformers
+tiktoken
+blobfile
+huggingface-hub
+numpy
+protobuf
+sentencepiece
